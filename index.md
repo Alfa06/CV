@@ -1,19 +1,18 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: DIALLO ALPHA's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# DIALLO ALPHA
+DATA ANALYST.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="almamadiall@gmail.com ">almamadiall@gmail.com</a>
 </div>
 
 
-## Currently
+## PROFIL
 
-Standing on the shoulders of giants
+Je suis une personne fiable, organisée et circonspecte. À travers mes différentes expériences, j’ai appris à aborder les problèmes avec sérénité et détermination. Autodidacte, pédagogue et doté de compétences diverses en finance et en analyse des données, je suis à la recherche d’une opportunité où des compétences transférables peuvent être utilisées et développées dans toutes leurs étendues.
 
 ### Specialized in
 
